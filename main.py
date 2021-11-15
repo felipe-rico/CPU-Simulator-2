@@ -1,7 +1,7 @@
 from cpu import CPU
 
-INSTRUCTION_INPUT_FILE = "instruction_input.txt"
-DATA_INPUT_FILE = "data_input.txt"
+INSTRUCTION_INPUT_FILE = "/Users/Felipe/Documents/Computer Programming/Python Projects/CPU Simulator 2/instruction_input.txt"
+DATA_INPUT_FILE = "/Users/Felipe/Documents/Computer Programming/Python Projects/CPU Simulator 2/data_input.txt"
 
 
 # Generate list of instructions from input file, use lambda function to strip off '\n' character from each line
